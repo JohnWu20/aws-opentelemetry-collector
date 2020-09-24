@@ -71,10 +71,6 @@ jobs:
         cat go.mod
         ls pkg
 
-    # Unit Test and attach test coverage badge
-    - name: Unit Test
-      run: make test
-
     - name: Upload Coverage report to CodeCov
       uses: codecov/codecov-action@v1.0.12
       with:
