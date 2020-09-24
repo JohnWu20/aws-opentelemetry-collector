@@ -6,6 +6,8 @@
 
 ### Overview
 
+i
+
 AWS Observability Collector(AOC) is a certified OpenTelemetry Collector and distributed by Amazon. It supports the selected components from the OpenTelemetry community and is fully compatible with AWS computing platforms including EC2, ECS and EKS. It will send telemetry data to AWS CloudWatch Metrics, Traces and Logs backends as well as the other backends we have claimed to support with verification.
 
 ### Getting Help
