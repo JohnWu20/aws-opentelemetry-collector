@@ -17,6 +17,7 @@ on:
   push:
     branches:
       - master
+      - otel-0.9.1
 
   # from collector and contrib repo
   repository_dispatch:
